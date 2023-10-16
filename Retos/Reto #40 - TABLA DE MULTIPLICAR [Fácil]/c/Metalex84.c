@@ -7,6 +7,7 @@ int main (void)
 
     printf("TABLA DE MULTIPLICAR\nDime un numero... ");
     scanf("%d", &value);
+
     i = 1;
     while (i <= 10 && value != 0)
     {
